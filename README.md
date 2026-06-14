@@ -4,10 +4,6 @@
 
 Proyek ini bertujuan untuk menganalisis pola penyewaan sepeda menggunakan dataset **Bike Sharing**. Analisis difokuskan pada perilaku pengguna berdasarkan waktu (jam), tipe pengguna, serta kondisi hari (hari kerja vs hari libur).
 
-👤 **Nama:** Nur Rahmawati
-📧 **Email:** [nurrahmawati0217@gmail.com](mailto:nurrahmawati0217@gmail.com)
-🆔 **Dicoding ID:** nur_rahmawati
-
 ---
 
 ## ❓ Business Questions
