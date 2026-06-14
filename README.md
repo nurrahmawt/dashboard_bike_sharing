@@ -100,7 +100,7 @@ Dataset yang digunakan:
 Aplikasi dashboard interaktif dibuat menggunakan Streamlit untuk eksplorasi data secara real-time.
 
 👉 **Akses Dashboard:**
-[Bike-Sharing] (https://dashboardbikesharing-mepyvosjvht8v5yttgut8p.streamlit.app/)
+[Bike-Sharing](https://dashboardbikesharing-mepyvosjvht8v5yttgut8p.streamlit.app/)
 
 ---
 
